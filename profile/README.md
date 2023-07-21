@@ -20,3 +20,5 @@ Epsilon is a service group installer allowing you to manage a server with game i
   - EpsilonAPI (Java) allowing you to manage your instances and your queues as you wish
 
 ## Pictures
+![](https://github.com/Epsilon-APP/.github-private/blob/main/01.png)
+
