@@ -21,4 +21,21 @@ Epsilon is a service group installer allowing you to manage a server with game i
 
 ## Pictures
 ![](https://github.com/Epsilon-APP/.github-private/blob/main/01.png)
-
+![](https://github.com/Epsilon-APP/.github-private/blob/main/02.png)
+![](https://github.com/Epsilon-APP/.github-private/blob/main/03.png)
+![](https://github.com/Epsilon-APP/.github-private/blob/main/04.png)
+![](https://github.com/Epsilon-APP/.github-private/blob/main/05.png)
+![](https://github.com/Epsilon-APP/.github-private/blob/main/06.png)
+![](https://github.com/Epsilon-APP/.github-private/blob/main/07.png)
+![](https://github.com/Epsilon-APP/.github-private/blob/main/08.png)
+![](https://github.com/Epsilon-APP/.github-private/blob/main/09.png)
+![](https://github.com/Epsilon-APP/.github-private/blob/main/10.png)
+![](https://github.com/Epsilon-APP/.github-private/blob/main/11.png)
+![](https://github.com/Epsilon-APP/.github-private/blob/main/12.png)
+![](https://github.com/Epsilon-APP/.github-private/blob/main/13.png)
+![](https://github.com/Epsilon-APP/.github-private/blob/main/14.png)
+![](https://github.com/Epsilon-APP/.github-private/blob/main/15.png)
+![](https://github.com/Epsilon-APP/.github-private/blob/main/16.png)
+![](https://github.com/Epsilon-APP/.github-private/blob/main/17.png)
+![](https://github.com/Epsilon-APP/.github-private/blob/main/18.png)
+![](https://github.com/Epsilon-APP/.github-private/blob/main/19.png)
